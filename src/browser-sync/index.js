@@ -1,0 +1,1 @@
+alert("browser-sync你好！");
