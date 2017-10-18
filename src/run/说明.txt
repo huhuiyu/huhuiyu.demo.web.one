@@ -1,0 +1,9 @@
+安装和执行插件目录
+安装淘宝的npm
+    npm install -g cnpm --registry=https://registry.npm.taobao.org
+全局安装gulp
+    cnpm install -g gulp
+安装gulp
+    cnpm install --save-dev gulp
+安装浏览器同步
+    cnpm install browser-sync --save-dev

@@ -1,0 +1,15 @@
+{
+    "name": "huhuiyu.demo.spring.angularjs.web",
+    "version": "1.0.0",
+    "description": "胡辉煜前端演示项目一",
+    "author": "胡辉煜",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/huhuiyu/huhuiyu.demo.web.one.git"
+    },
+    "license": "Apache-2.0",
+    "devDependencies": {
+        "browser-sync": "^2.18.13",
+        "gulp": "^3.9.1"
+    }
+}
